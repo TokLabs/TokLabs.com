@@ -2,5 +2,19 @@ remote_theme: mmistakes/minimal-mistakes
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
 title: TokLabs
+logo: /images/logo.png
+description: Sec Research
+powered_by: false
+  links:
+    - label: "Twitter"
+      icon: fab fa-fw da-twitter square
+      url: https://twitter.com/toklabs
+      
+footer:
+  links:
+    - label: "Twitter"
+      icon: fab fa-fw da-twitter square
+      url: https://twitter.com/toklabs
+      
 plugins:
   - jekyll-include-cache
