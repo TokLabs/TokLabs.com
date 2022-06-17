@@ -1,5 +1,5 @@
 main:
   - title: "test"
   url: /test/
-  'title: "Sitemap"
+  -title: "Sitemap"
   url: /sitemap/
