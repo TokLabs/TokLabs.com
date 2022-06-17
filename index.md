@@ -1,5 +1,7 @@
-<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png">
-## Welcome to GitHub Pages2
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png">
+</head>
+  ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TokLabs/TokLabs.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
