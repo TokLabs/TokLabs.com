@@ -1,0 +1,5 @@
+main:
+  - title: "test"
+  url: /test/
+  'title: "Sitemap"
+  url: /sitemap/
